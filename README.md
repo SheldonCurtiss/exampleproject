@@ -1,8 +1,8 @@
-**Sheldon's Project Template**
-This is just a nice template I intend to use for my projects.
-
-**Why?**
-I wanted a standard layout for all my projects. 
+**Sheldon's Project Template**  
+This is just a nice template I intend to use for my projects.  
+  
+**Why?**  
+I wanted a standard layout for all my projects.   
 My prerequisites were the following:  
 -Intellisense should work properly.  
 -Dependencies for both editing and executing the code tied to project folder.  
@@ -30,4 +30,4 @@ Depending on project this may change but here is my general outline.
 1.) Click edit.bat to open the editor  
 (If using this specific project further steps)  
 2.a) After launching navigate to /code/main.py then click python in the bottom left.  
-2.b) At the top set the interpreter to python.exe in /dependencies/code/python/  
+2.b) At the top set the interpreter to python.exe in /dependencies/code/python/
